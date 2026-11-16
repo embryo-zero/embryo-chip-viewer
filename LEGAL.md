@@ -15,3 +15,6 @@ First lines of those files when we forked (2026-11-16):
 - Running it on our own servers for people (inside the apps) is not handing out the program; we still keep our source public.
 - Chips and layouts people make with it belong to them; the tool's license does not cover what it produces.
 - No warranty beyond what the license says.
+
+## Exact license
+KLayout source files say: GNU GPL "version 2 of the License, or (at your option) any later version" (GPL-2.0-or-later); the LICENSE file holds the GPL-3.0 text. Our changes are offered under the same terms.
